@@ -31,7 +31,7 @@ __*TEXTO*__
 [Página oficial de Youtube](https://youtu.be/DlOmsuxDVew?si=aaZo4OVY171UfvIN "Texto adicional")
 
 
-![alt text](./ "Imagen random de ")
+![alt text](./guts.jpg "Imagen random de ")
 
 
 | Juagdor | Equipo | Nombre |
